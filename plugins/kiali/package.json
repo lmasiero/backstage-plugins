@@ -32,8 +32,8 @@
     "@material-ui/core": "^4.9.13",
     "@material-ui/icons": "^4.11.3",
     "@material-ui/lab": "^4.0.0-alpha.45",
-    "@patternfly/patternfly": "4.224.2",
-    "@patternfly/react-charts": "6.94.18",
+    "@patternfly/patternfly": "4.224.5",
+    "@patternfly/react-charts": "6.94.21",
     "react-use": "^17.2.4"
   },
   "peerDependencies": {
@@ -48,7 +48,7 @@
     "@testing-library/jest-dom": "5.17.0",
     "@testing-library/react": "12.1.5",
     "@testing-library/user-event": "14.4.3",
-    "@types/node": "20.2.5",
+    "@types/node": "20.4.10",
     "cross-fetch": "4.0.0",
     "msw": "1.2.3"
   },
